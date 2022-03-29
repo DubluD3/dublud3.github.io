@@ -1,0 +1,23 @@
+{
+  "name": "stakeborgdao-balance-bot-1.4.1",
+  "version": "1.4.1",
+  "description": "Web App to check STANDARD Balance on Connected Wallet",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "STANDARD",
+    "StakeborgDAO",
+    "Discord",
+    "Balance",
+    "Web3",
+    "Metamask"
+  ],
+  "author": "DubluDe",
+  "license": "MIT",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^13.6.0"
+  }
+}
